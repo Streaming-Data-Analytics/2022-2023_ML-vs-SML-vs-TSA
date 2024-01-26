@@ -4,4 +4,4 @@ Optional project of the [Streaming Data Analytics](http://emanueledellavalle.org
 
 Student: **Edoardo Stoppa**
 
-The projects aims to compare techniques of Traditional Machine Learning, Streaming Machine Learning, and Time Series Analysis on the Bike Sharing dataset in a regression problem.
+The project aims to compare Traditional Machine Learning, Streaming Machine Learning, and Time Series Analysis techniques on the Bike Sharing dataset in a regression problem.
